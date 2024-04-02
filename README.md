@@ -2,6 +2,8 @@
 
 Đây là mô hình nhận diện các loại bánh nhân gian Việt Nam bằng mô hình máy học với yolov8 
 
+Link for full project : https://drive.google.com/file/d/1_D4yrncS3KkJ-AJ7kFhK-LQWkmczudPL/view?usp=sharing
+
 Dataset : https://www.kaggle.com/datasets/quandang/vietnamese-foods
 
 Tools : Makesense.ai , Roboflow , Advanced Renamer , Google Colab , Pycharm 
